@@ -7,6 +7,7 @@ Features
 * Responsive design
 * Clear button to reset the calculation
 * Error handling for invalid inputs
+  
 Technologies Used
 * HTML5
 * CSS3
